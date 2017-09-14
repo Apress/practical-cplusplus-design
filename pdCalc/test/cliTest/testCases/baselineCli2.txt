@@ -1,0 +1,165 @@
+12.3
+
+Top element of stack (size = 1):
+1:	12.3
+
+123456
+
+Top 2 elements of stack (size = 2):
+2:	12.3
+1:	123456
+
+/
+
+Top element of stack (size = 1):
+1:	9.96306376361e-05
+
+sin
+
+Top element of stack (size = 1):
+1:	9.96306374713e-05
+
+1
+
+Top 2 elements of stack (size = 2):
+2:	9.96306374713e-05
+1:	1
+
+swap
+
+Top 2 elements of stack (size = 2):
+2:	1
+1:	9.96306374713e-05
+
+/
+
+Top element of stack (size = 1):
+1:	10037.0731873
+
+2
+
+Top 2 elements of stack (size = 2):
+2:	10037.0731873
+1:	2
+
+root
+
+Top element of stack (size = 1):
+1:	100.185194452
+
+-543.33
+
+Top 2 elements of stack (size = 2):
+2:	100.185194452
+1:	-543.33
+
+12
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	12
+
+arcsin
+Invalid argument
+neg
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-12
+
+14
+
+Top 4 elements of stack (size = 4):
+4:	100.185194452
+3:	-543.33
+2:	-12
+1:	14
+
+/
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.857142857143
+
+arcsin
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-1.02969680084
+
+undo
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.857142857143
+
+undo
+
+Top 4 elements of stack (size = 4):
+4:	100.185194452
+3:	-543.33
+2:	-12
+1:	14
+
+undo
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-12
+
+18
+
+Top 4 elements of stack (size = 4):
+4:	100.185194452
+3:	-543.33
+2:	-12
+1:	18
+
+/
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.666666666667
+
+arcsin
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.729727656227
+
+undo
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.666666666667
+
+redo
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.729727656227
+
+tan
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.894427191
+
+arctan
+
+Top 3 elements of stack (size = 3):
+3:	100.185194452
+2:	-543.33
+1:	-0.729727656227
+

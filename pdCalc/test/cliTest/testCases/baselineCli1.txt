@@ -1,0 +1,16 @@
+4
+
+Top element of stack (size = 1):
+1:	4
+
+7
+
+Top 2 elements of stack (size = 2):
+2:	4
+1:	7
+
++
+
+Top element of stack (size = 1):
+1:	11
+
