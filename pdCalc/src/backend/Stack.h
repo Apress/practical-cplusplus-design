@@ -70,7 +70,7 @@ private:
     Stack(const Stack&) = delete;
     Stack(Stack&&) = delete;
     Stack& operator=(const Stack&) = delete;
-    Stack& operator=(const Stack&&) = delete;
+    Stack& operator=(Stack&&) = delete;
 
     std::unique_ptr<StackImpl> pimpl_;
 };
